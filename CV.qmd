@@ -1,0 +1,60 @@
+---
+title: "CV"
+description: "Curriculum Vitae"
+author: "Grey Gergen"
+format:
+  html:
+    toc: true
+    theme: cosmo
+date: today
+---
+
+# Personal Information
+
+-   **Email:** ggergen22\@gmail.com\
+-   **Phone:** +1(402) 525 3827\
+-   **LinkedIn:** <https://www.linkedin.com/in/grey-gergen-390355290/>\
+-   **GitHub:** [github.com/ggergen2](https://github.com/ggergen2)
+
+# Education
+
+## Statistics & Data Analytics (August 2021 -  December 2025)
+
+**University of Nebraska-Lincoln**, Lincoln, NE
+
+Minors: Software Development, Economics
+
+GPA: 3.57
+
+Awards & Honors: Dean's List Fall 2021, Spring 2023, Fall 2023, Fall 2024
+
+Involvements: Beta Theta Pi Fraternity, Executive Team 2023
+
+# Work Experience
+
+## Data Analyst Intern (June 2023 - Present)
+
+**Leadership Resources**, Lincoln, NE
+
+-   Create in depth reports using R Quarto & Excel
+
+-   Analyze & clean data sets from multiple data sources
+
+-   Develop multiple report applications and dashboards using R Shiny
+
+-   Utilize APIs and Webhooks to dynamically pull data
+
+# Skills
+
+-   Programming: R, Python, JavaScript
+-   Data Analysis
+-   Version Control: Git, GitHub
+-   Excel
+
+# Certifications
+
+-   IBM Data Analyst (2024)
+
+# References
+
+Available upon request.

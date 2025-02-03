@@ -26,5 +26,54 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Email: ggergen22@gmail.com\n\nPhone: +1(402) 525 3827\n\nLinkedIn: https://www.linkedin.com/in/grey-gergen-390355290/\n\nGitHub: github.com/ggergen2"
+  },
+  {
+    "objectID": "CV.html#your-degree-2021---2025",
+    "href": "CV.html#your-degree-2021---2025",
+    "title": "Grey Gergen",
+    "section": "Your Degree (2021 - 2025)",
+    "text": "Your Degree (2021 - 2025)\nUniversity of Nebraska-Lincoln, Lincoln, NE - Major: Statistics & Data Analytics - Minors: Software Development, Economics - GPA: 3.57 - Awards & Honors: Dean’s List Fall 2021, Spring 2023, Fall 2023, Fall 2024 - Involvements: Beta Theta Pi Fraternity, Executive Team 2023"
+  },
+  {
+    "objectID": "CV.html#data-analyst-intern-2023---present",
+    "href": "CV.html#data-analyst-intern-2023---present",
+    "title": "Grey Gergen",
+    "section": "Data Analyst Intern (2023 - Present)",
+    "text": "Data Analyst Intern (2023 - Present)\nLeadership Resources, Lincoln, NE\n\nCreate in depth reports using R quarto\nAnalyze & clean data sets from multiple data sources\nDevelop multiple report applications and dashboards using R Shiny\nUtilize APIs and Webhooks to dynamically pull data"
+  },
+  {
+    "objectID": "CV.html#statistics-data-analytics-2021---2025",
+    "href": "CV.html#statistics-data-analytics-2021---2025",
+    "title": "Grey Gergen",
+    "section": "Statistics & Data Analytics (2021 - 2025)",
+    "text": "Statistics & Data Analytics (2021 - 2025)\nUniversity of Nebraska-Lincoln, Lincoln, NE\nMinors: Software Development, Economics\nGPA: 3.57\nAwards & Honors: Dean’s List Fall 2021, Spring 2023, Fall 2023, Fall 2024\nInvolvements: Beta Theta Pi Fraternity, Executive Team 2023"
+  },
+  {
+    "objectID": "CV.html#statistics-data-analytics-august-2021---december-2025",
+    "href": "CV.html#statistics-data-analytics-august-2021---december-2025",
+    "title": "CV",
+    "section": "Statistics & Data Analytics (August 2021 - December 2025)",
+    "text": "Statistics & Data Analytics (August 2021 - December 2025)\nUniversity of Nebraska-Lincoln, Lincoln, NE\nMinors: Software Development, Economics\nGPA: 3.57\nAwards & Honors: Dean’s List Fall 2021, Spring 2023, Fall 2023, Fall 2024\nInvolvements: Beta Theta Pi Fraternity, Executive Team 2023"
+  },
+  {
+    "objectID": "CV.html#data-analyst-intern-june-2023---present",
+    "href": "CV.html#data-analyst-intern-june-2023---present",
+    "title": "CV",
+    "section": "Data Analyst Intern (June 2023 - Present)",
+    "text": "Data Analyst Intern (June 2023 - Present)\nLeadership Resources, Lincoln, NE\n\nCreate in depth reports using R Quarto & Excel\nAnalyze & clean data sets from multiple data sources\nDevelop multiple report applications and dashboards using R Shiny\nUtilize APIs and Webhooks to dynamically pull data"
+  },
+  {
+    "objectID": "Cover Letter.html",
+    "href": "Cover Letter.html",
+    "title": "Cover Letter",
+    "section": "",
+    "text": "Dear Hiring Manager,\nI am writing to express my interest in the Data Architect Analyst position. I have experience working with data management and dashboard development, and I believe I would be a great fit for the role.\nAlthough I have minimal experience with Power BI and Access Database I have experience building dashboards from scratch with Shiny. I am also confident in my ability to quickly adapt and learn new skills. I have extensive experience cleaning and organizing large datasets to make sure they are accurate and useful. I enjoy working with data and figuring out ways to improve processes through better organization and reporting.\nIn my past role, I’ve collaborated with different teams to understand their data needs and deliver insights that drive improvements. I also have experience with SQL, Python, and R, which have helped me analyze data more effectively and automate tasks.\nI would love the chance to talk more about how I can contribute to the team.\nThank you for your time and consideration.\nBest,\nGrey Gergen"
   }
 ]
