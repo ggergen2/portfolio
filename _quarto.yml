@@ -6,8 +6,6 @@ website:
   title: "portfolio"
   navbar:
     right:
-      - Cover Letter.qmd
-      - about.qmd
       - CV.qmd
       - icon: github
         href: https://github.com/
