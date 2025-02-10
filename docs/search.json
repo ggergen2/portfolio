@@ -82,5 +82,19 @@
     "title": "Cover Letter",
     "section": "",
     "text": "Dear Hiring Manager,\nI am writing to express my interest in the Data Architect Analyst position. I have experience working with data management and dashboard development, and I believe I would be a great fit for the role.\nAlthough I have minimal experience with Power BI and Access Database I have experience building dashboards from scratch with Shiny. I am also confident in my ability to quickly adapt and learn new skills. I have extensive experience cleaning and organizing large datasets to make sure they are accurate and useful. I enjoy working with data and figuring out ways to improve processes through better organization and reporting.\nIn my past role, I’ve collaborated with different teams to understand their data needs and deliver insights that drive improvements. I also have experience with SQL, Python, and R, which have helped me analyze data more effectively and automate tasks.\nI would love the chance to talk more about how I can contribute to the team.\nThank you for your time and consideration.\nBest,\nGrey Gergen"
+  },
+  {
+    "objectID": "posts/Annotated Bibliography/Annotated Bibliography.html",
+    "href": "posts/Annotated Bibliography/Annotated Bibliography.html",
+    "title": "Annotated Bibliography",
+    "section": "",
+    "text": "On tail trend detection: modeling relative risk aims to estimate trends in extreme value theory. The authors reference several other articles that aim to do the same. However they set themselves apart by getting results that are directly interpretable, asymptotic justification, and discussing existing findings are not satisfactory @dehaanTailTrendDetection2015."
+  },
+  {
+    "objectID": "posts/Annotated Bibliography/Annotated Bibliography.html#article-2",
+    "href": "posts/Annotated Bibliography/Annotated Bibliography.html#article-2",
+    "title": "Annotated Bibliography",
+    "section": "Article 2",
+    "text": "Article 2\n\nDefining single extreme weather events in a climate perspective"
   }
 ]
